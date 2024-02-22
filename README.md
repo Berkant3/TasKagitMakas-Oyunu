@@ -8,6 +8,3 @@
 <h1>Ekran Görüntüsü</h1>
 
 ![](tkm.gif)
-# TasKagitMakas-Oyunu
-# TasKagitMakas-Oyunu
-# TasKagitMakas-Oyunu
